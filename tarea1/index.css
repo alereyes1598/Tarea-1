@@ -1,0 +1,27 @@
+#titulo {
+	color:blue;
+	text-align: center;
+	font-family:Georgia, serif;
+	font-size: 30px;
+    text-transform: uppercase;
+    color: blue;
+}
+
+#imagen {
+
+	margin:auto;
+}
+body {
+    background-image: url("fond.jpg");
+    background-repeat: repeat;
+}
+div {
+    background-color: lightgrey;
+    width: 500px;
+    border-color: #ff0080;
+    border: 25px solid #ff0080;
+
+    padding: 25px;
+    margin: 25px;
+}
+p.caja {border-style: groove;}
